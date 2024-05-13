@@ -83,7 +83,7 @@ shinywidgets
 six
 smmap==5.0.0
 stack-data==0.6.3
-streamlit==1.20.0
+streamlit
 tenacity==8.2.2
 toml==0.10.2
 toolz==0.12.0
