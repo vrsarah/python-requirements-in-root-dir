@@ -8,7 +8,7 @@ bokeh
 cachetools
 certifi
 charset-normalizer
-click=
+click
 comm
 contourpy
 cycler
